@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /js/*.js
+Allow: /css/*.css
+Allow: /images/
+
+
+Host: https://tattoo-avto.ru
